@@ -1,0 +1,11 @@
+.matches-container{
+    background-color: black;
+}
+
+.game-card{
+    background-color: #000000; /* Set background color */
+    padding: 20px; /* Add padding around each card */
+    border-radius: 8px; 
+    margin-bottom: 40px;
+}
+
